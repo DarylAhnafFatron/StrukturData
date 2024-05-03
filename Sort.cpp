@@ -40,7 +40,7 @@ void quickSort(int arr[], int low, int high) {
 void displayArray(int arr[], int size) {
     int i;
     for (i = 0; i < size; i++)
-        cout << arr[i] << " ";
+    cout << arr[i] << " ";
     cout << endl;
 }
 
